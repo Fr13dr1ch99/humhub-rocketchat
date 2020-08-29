@@ -1,5 +1,7 @@
 <?php
 
+namespace humhub\modules\rocketchat\views\config;
+
 use humhub\libs\Html;
 use humhub\widgets\Button;
 use yii\bootstrap\ActiveForm;

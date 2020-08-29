@@ -1,5 +1,9 @@
 <?php
+
+namespace humhub\modules\rocketchat;
+
 use humhub\widgets\TopMenu;
+
 /**
  * Configuration
  * @package humhub\modules\rocketchat

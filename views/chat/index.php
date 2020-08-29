@@ -1,5 +1,7 @@
 <?php
 
+namespace humhub\modules\rocketchat\views\chat;
+
 use Yii;
 use yii\helpers\Url;
 use humhub\libs\Html;
